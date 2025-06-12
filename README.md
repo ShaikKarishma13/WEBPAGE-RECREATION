@@ -53,5 +53,4 @@ This project recreates a webpage showing multiple internship programs in a 2x2 c
 This project demonstrates the ability to build a modern, attractive, and responsive webpage using basic web development tools. It lays the foundation for deeper learning in front-end technologies and UI design
 
 ##  output:
-https://codepen.io/Shaik-Karishma-the-solid/pen/EajbvKR
-
+https://codepen.io/Shaik-Karishma-the-solid/pen/XJbqNZq
